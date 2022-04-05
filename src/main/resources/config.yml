@@ -1,0 +1,17 @@
+#Event-Started
+event-started: false
+#Wartung
+wartungsmodus: false
+#Auto-Vanish
+auto-vanish: false
+#Spawn
+spawn_location: 0, 0, 0
+#ServerMOTD
+Server_MOTD_NORMAL: "&6SurvivalServer.eu &8- &6Netzwerk &8[&e1&4.&e19&4.&ex&8]"
+Server_MOTD_MAINTENANCE: "&6SurvivalServer.eu &8- &6Netzwerk &8[&e1&4.&e19&4.&ex&8]              &c&lServer ist gerade im Wartungsmodus!"
+#PatchNotes
+patchnotes_line_1: "---"
+patchnotes_line_2: "---"
+patchnotes_line_3: "---"
+patchnotes_line_4: "---"
+patchnotes_line_5: "---"

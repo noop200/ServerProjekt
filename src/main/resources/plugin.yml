@@ -1,0 +1,79 @@
+name: ServerProjekt
+version: ${project.version}
+main: de.timp.serverprojekt.serverprojekt.ServerProjekt
+api-version: 1.18
+authors: [ timo ]
+commands:
+  gui:
+  settings:
+  spawn:
+  end:
+  nether:
+  countdown:
+    permission: serverprojekt.countdown
+  event-start:
+    permission: serverprojekt.event.start
+  craft:
+  wartung:
+    permission: serverprojekt.maintnance
+  rlc:
+    permission: serverprojekt.rlc
+  reloadconfig:
+    permission: serverprojekt.reloadconfig
+  activate:
+    permission: serverprojekt.activate.worlds
+  deactivate:
+    permission: serverprojekt.deactivate.worlds
+  patchnotes:
+    permission: serverprojekt.setpatchnotes
+  gm:
+    permission: serverprojekt.gm
+  gamemode:
+    permission: serverprojekt.gamemode
+  pl:
+  plugins:
+  help:
+  ec:
+  enderchest:
+  protectiontime:
+    permission: serverprojekt.protectiontime
+  pvp:
+    permission: serverprojekt.pvp
+  testsound:
+    permission: serverprojekt.test
+  heal:
+    permission: serverprojekt.heal
+  shutdown:
+    permission: serverprojekt.shutdown
+  fly:
+    permission: serverprojekt.fly
+  head:
+  testcmd:
+    permission: serverprojekt.testcmd
+  chat:
+    permission: serverprojekt.chat
+  clearchat:
+    permission: serverprojekt.clearchat
+  v:
+    permission: serverprojekt.vanish
+  vanish:
+    permission: serverprojekt.vanish
+  tp:
+    permission: serverprojekt.tp
+  teleport:
+    permission: serverprojekt.tp
+  tpo:
+    permission: serverprojekt.tp
+  tpall:
+    permission: serverprojekt.tpall
+  togglevanish:
+    permission: serverprojekt.togglevanish
+  togglev:
+    permission: serverprojekt.togglevanish
+  discov:
+    permission: serverprojekt.disconnectvanish
+  discovanish:
+    permission: serverprojekt.disconnectvanishd
+  backpack:
+    aliases:
+      - bp
